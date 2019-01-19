@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-18T08:53:53.238Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你说我能不能用中文ww</title>
+    <link href="http://yoursite.com/2019/01/18/First-post/"/>
+    <id>http://yoursite.com/2019/01/18/First-post/</id>
+    <published>2019-01-18T08:42:13.000Z</published>
+    <updated>2019-01-18T08:53:53.238Z</updated>
+    
+    <content type="html"><![CDATA[<p>#这个是一级标题</p><p>##这个是二级标题</p><h2 id="这个是三级标题"><a href="#这个是三级标题" class="headerlink" title="###这个是三级标题"></a>###这个是三级标题</h2><p><em>斜体字</em><br><strong>加粗字体</strong><br><strong><em>加粗倾斜字体</em></strong><br><del>删除线字体</del><br><em>这个不知道什么文本形式</em><br><small>这段是小字</small><br>传说中的单行长文字</p><blockquote><p>引用文字</p></blockquote><hr><p><code>高亮文字</code><br>***上面有条分割线<br>这段是脚注[^footer]<br><a href="www.baidu.com">链接文字例如百度</a><br>无序要点</p><ul><li>这是第一点</li><li>这是第二点</li><li>这是第三点</li></ul><p>有序要点 </p><ol><li>这是第一点</li><li>这是第二点</li><li>这是第三点</li></ol><p><code>code block</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#这个是一级标题&lt;/p&gt;
+&lt;p&gt;##这个是二级标题&lt;/p&gt;
+&lt;h2 id=&quot;这个是三级标题&quot;&gt;&lt;a href=&quot;#这个是三级标题&quot; class=&quot;headerlink&quot; title=&quot;###这个是三级标题&quot;&gt;&lt;/a&gt;###这个是三级标题&lt;/h2&gt;&lt;p&gt;&lt;em&gt;斜体字&lt;/em
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/01/18/hello-world/"/>
+    <id>http://yoursite.com/2019/01/18/hello-world/</id>
+    <published>2019-01-18T08:05:10.251Z</published>
+    <updated>2019-01-18T08:05:10.252Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
