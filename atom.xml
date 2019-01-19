@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Moir Journal</title>
+  <title>Bozilla</title>
   
-  
+  <subtitle>Journal for a Gentoo-Cat</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-19T01:23:06.398Z</updated>
+  <updated>2019-01-19T06:20:39.858Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Moir Boz</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hahah</title>
-    <link href="http://yoursite.com/2019/01/18/hahah/"/>
-    <id>http://yoursite.com/2019/01/18/hahah/</id>
-    <published>2019-01-19T01:18:57.000Z</published>
-    <updated>2019-01-19T01:23:06.398Z</updated>
+    <title>Miehaha</title>
+    <link href="http://yoursite.com/2019/01/18/Miehaha/"/>
+    <id>http://yoursite.com/2019/01/18/Miehaha/</id>
+    <published>2019-01-19T06:08:08.000Z</published>
+    <updated>2019-01-19T06:20:39.858Z</updated>
     
-    <content type="html"><![CDATA[<p>为什么我的静态网页就是不更新呢！！！<br>为什么！！！</p>]]></content>
+    <content type="html"><![CDATA[<p>想试一试图片怎么用</p><img src="/2019/01/18/Miehaha/favicon20-31-30-484.png" title="This is an example image">]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;为什么我的静态网页就是不更新呢！！！&lt;br&gt;为什么！！！&lt;/p&gt;
+        &lt;p&gt;想试一试图片怎么用&lt;/p&gt;
+&lt;img src=&quot;/2019/01/18/Miehaha/favicon20-31-30-484.png&quot; title=&quot;This is an example image&quot;&gt;
 
       
     
@@ -43,7 +44,7 @@
     <link href="http://yoursite.com/2019/01/18/First-post/"/>
     <id>http://yoursite.com/2019/01/18/First-post/</id>
     <published>2019-01-18T08:42:13.000Z</published>
-    <updated>2019-01-18T08:53:53.238Z</updated>
+    <updated>2019-01-19T05:56:03.294Z</updated>
     
     <content type="html"><![CDATA[<p>#这个是一级标题</p><p>##这个是二级标题</p><h2 id="这个是三级标题"><a href="#这个是三级标题" class="headerlink" title="###这个是三级标题"></a>###这个是三级标题</h2><p><em>斜体字</em><br><strong>加粗字体</strong><br><strong><em>加粗倾斜字体</em></strong><br><del>删除线字体</del><br><em>这个不知道什么文本形式</em><br><small>这段是小字</small><br>传说中的单行长文字</p><blockquote><p>引用文字</p></blockquote><hr><p><code>高亮文字</code><br>***上面有条分割线<br>这段是脚注[^footer]<br><a href="www.baidu.com">链接文字例如百度</a><br>无序要点</p><ul><li>这是第一点</li><li>这是第二点</li><li>这是第三点</li></ul><p>有序要点 </p><ol><li>这是第一点</li><li>这是第二点</li><li>这是第三点</li></ol><p><code>code block</code></p>]]></content>
     
@@ -58,6 +59,8 @@
     
     </summary>
     
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
