@@ -68,9 +68,9 @@
     </summary>
     
     
-      <category term="nichijou" scheme="http://yoursite.com/tags/nichijou/"/>
-    
       <category term="猫" scheme="http://yoursite.com/tags/%E7%8C%AB/"/>
+    
+      <category term="nichijou" scheme="http://yoursite.com/tags/nichijou/"/>
     
   </entry>
   
