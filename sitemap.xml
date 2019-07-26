@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/friends/index.html</loc>
+    
+    <lastmod>2019-07-26T13:04:10.990Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/02/11/jynyLyrics/</loc>
     
     <lastmod>2019-02-11T23:00:03.715Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>http://yoursite.com/%E9%97%B2%E6%B0%B4%E9%B8%A6/index.html</loc>
     
     <lastmod>2019-01-29T04:37:43.298Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/friends/index.html</loc>
-    
-    <lastmod>2019-01-22T04:21:51.997Z</lastmod>
     
   </url>
   
