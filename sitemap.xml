@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/01/23/First-Fire/</loc>
+    
+    <lastmod>2021-01-10T16:04:51.925Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2021/01/10/Photographer-PS-self-practice-record/</loc>
+    
+    <lastmod>2021-01-10T16:04:49.240Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/07/26/Moving2019/</loc>
     
     <lastmod>2019-08-02T03:52:24.006Z</lastmod>
@@ -47,13 +61,6 @@
     <loc>http://yoursite.com/2019/01/28/%E4%B8%8ED%E7%9A%84%E6%97%A5%E5%B8%B8I/</loc>
     
     <lastmod>2019-02-08T03:36:15.375Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/01/23/First-Fire/</loc>
-    
-    <lastmod>2019-02-06T18:10:11.725Z</lastmod>
     
   </url>
   
