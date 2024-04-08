@@ -12,3 +12,7 @@ mood = 'happy'
 Test and hello world!
 try to build up
 
+---
+也不是哪一行都会被喵
+
+---
