@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-04-06T15:47:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-06T15:47:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lifelog/hello_world/</loc>
+    <lastmod>2024-04-06T15:47:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2024-04-06T15:47:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/life/</loc>
+    <lastmod>2024-04-06T15:47:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lifelog/</loc>
+    <lastmod>2024-04-06T15:47:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-06T15:47:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-01-01T10:28:10+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url>
+</urlset>
