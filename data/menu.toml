@@ -1,0 +1,89 @@
+[[entries]]
+title = "<a href='https://github.com/riggraz/no-style-please'>about(希望在这里插入i的icon)</a>"
+
+[[entries]]
+title = "cartes de francais"
+
+  [entries.francais]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "movies"
+
+
+[[entries]]
+title = "main de Cucul"
+
+  [entries.album_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "albums"
+
+
+
+[[entries]]
+title = "albums"
+
+  [entries.album_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "albums"
+
+
+[[entries]]
+title = "fragments"
+
+  [entries.post_list]
+  limit = 3
+  show_more = true
+  show_more_text = "Tout .."
+  show_more_url = "posts"
+
+
+[[entries]]
+title = "#film"
+
+  [entries.film_list]
+  limit = 3
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "movies"
+
+
+[[entries]]
+title = "#anime"
+
+  [entries.movie]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "movies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

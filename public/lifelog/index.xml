@@ -13,7 +13,7 @@
       <link>http://localhost:1313/lifelog/hello_world/</link>
       <pubDate>Sat, 06 Apr 2024 15:47:34 +0800</pubDate>
       <guid>http://localhost:1313/lifelog/hello_world/</guid>
-      <description>Test and hello world! try to build up</description>
+      <description>Test and hello world! try to build up&#xA;也不是哪一行都会被喵</description>
     </item>
   </channel>
 </rss>
